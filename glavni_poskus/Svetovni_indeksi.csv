@@ -1,0 +1,85 @@
+Ime,Drzava,Borza,Valuta,Cena,Mesečna sprem.,Letna sprem.,st_delnic,Čas prid. podatkov,Link_iz_stock_analysis,Link_iz_econ
+Bombay Stock Exchange,India,BOM,INR,80081.0,-1.55%,2.48%,4458,Aug/28,https://stockanalysis.com/list/bse-india/,https://tradingeconomics.com/india/stock-market
+Tokyo Stock Exchange,Japan,TYO,JPY,42945.0,5.58%,7.65%,3886,Aug/28,https://stockanalysis.com/list/tokyo-stock-exchange/,https://tradingeconomics.com/japan/stock-market
+London Stock Exchange,United Kingdom,LON,GBP,9213.0,0.84%,12.72%,3433,Aug/28,https://stockanalysis.com/list/london-stock-exchange/,https://tradingeconomics.com/united-kingdom/stock-market
+Nasdaq Stock Market,United States,NASDAQ,USD,6485.23,1.80%,10.26%,3330,Aug/28,https://stockanalysis.com/list/nasdaq-stocks/,https://tradingeconomics.com/united-states/stock-market
+Shenzhen Stock Exchange,China,SHE,CNY,3844.0,6.48%,14.67%,2888,Aug/28,https://stockanalysis.com/list/shenzhen-stock-exchange/,https://tradingeconomics.com/china/stock-market
+Hong Kong Stock Exchange,Hong Kong,HKG,HKD,25161.0,-1.42%,25.43%,2628,Aug/28,https://stockanalysis.com/list/hong-kong-stock-exchange/,https://tradingeconomics.com/hong-kong/stock-market
+Frankfurt Stock Exchange,Germany,FRA,EUR,24053.0,-0.68%,20.82%,2165,Aug/28,https://stockanalysis.com/list/frankfurt-stock-exchange/,https://tradingeconomics.com/germany/stock-market
+Australian Securities Exchange,Australia,ASX,AUD,8911.0,2.37%,9.22%,1791,Aug/28,https://stockanalysis.com/list/australian-securities-exchange/,https://tradingeconomics.com/australia/stock-market
+TSX Venture Exchange,Canada,TSXV,CAD,28370.0,3.01%,14.73%,1462,Aug/28,https://stockanalysis.com/list/tsx-venture-exchange/,https://tradingeconomics.com/canada/stock-market
+Borsa Italiana,Italy,BIT,EUR,42351.0,2.71%,23.88%,1159,Aug/28,https://stockanalysis.com/list/borsa-italiana/,https://tradingeconomics.com/italy/stock-market
+Taipei Exchange,Taiwan,TPEX,TWD,24236.0,4.46%,5.22%,1125,Aug/28,https://stockanalysis.com/list/taipei-exchange/,https://tradingeconomics.com/taiwan/stock-market
+Bursa Malaysia,Malaysia,KLSE,MYR,1587.0,4.15%,-3.36%,1053,Aug/28,https://stockanalysis.com/list/bursa-malaysia/,https://tradingeconomics.com/malaysia/stock-market
+Stock Exchange of Thailand,Thailand,BKK,THB,817.0,0.90%,-9.80%,992,Aug/28,https://stockanalysis.com/list/stock-exchange-of-thailand/,https://tradingeconomics.com/thailand/stock-market
+Indonesia Stock Exchange,Indonesia,IDX,IDR,7952.0,4.39%,12.32%,901,Aug/28,https://stockanalysis.com/list/indonesia-stock-exchange/,https://tradingeconomics.com/indonesia/stock-market
+Nasdaq Stockholm,Sweden,STO,SEK,2643.0,1.52%,6.42%,771,Aug/28,https://stockanalysis.com/list/nasdaq-stockholm/,https://tradingeconomics.com/sweden/stock-market
+Euronext Paris,France,EPA,EUR,7763.0,-1.20%,5.18%,747,Aug/28,https://stockanalysis.com/list/euronext-paris/,https://tradingeconomics.com/france/stock-market
+Warsaw Stock Exchange,Poland,WSE,PLN,106306.0,-1.61%,33.59%,717,Aug/28,https://stockanalysis.com/list/warsaw-stock-exchange/,https://tradingeconomics.com/poland/stock-market
+Mexican Stock Exchange,Mexico,BMV,MXN,58857.0,1.79%,18.79%,621,Aug/28,https://stockanalysis.com/list/mexican-stock-exchange/,https://tradingeconomics.com/mexico/stock-market
+Istanbul Stock Exchange,Turkey,IST,TRY,11369.0,8.41%,15.65%,585,Aug/28,https://stockanalysis.com/list/borsa-istanbul/,https://tradingeconomics.com/turkey/stock-market
+Tel Aviv Stock Exchange,Israel,TLV,ILS,3130.0,0.79%,28.96%,501,Aug/28,https://stockanalysis.com/list/tel-aviv-stock-exchange/,https://tradingeconomics.com/israel/stock-market
+Pakistan Stock Exchange,Pakistan,PSX,PKR,147479.0,6.90%,28.10%,479,Aug/28,https://stockanalysis.com/list/pakistan-stock-exchange/,https://tradingeconomics.com/pakistan/stock-market
+Brazil Stock Exchange,Brazil,BVMF,BRL,141743.0,6.79%,17.84%,425,Aug/28,https://stockanalysis.com/list/brazil-stock-exchange/,https://tradingeconomics.com/brazil/stock-market
+Singapore Exchange,Singapore,SGX,SGD,4254.0,0.58%,12.31%,391,Aug/28,https://stockanalysis.com/list/singapore-exchange/,https://tradingeconomics.com/singapore/stock-market
+Ho Chi Minh Stock Exchange,Vietnam,HOSE,VND,1681.0,12.55%,32.69%,387,Aug/28,https://stockanalysis.com/list/ho-chi-minh-stock-exchange/,https://tradingeconomics.com/vietnam/stock-market
+Saudi Stock Exchange,Saudi Arabia,TADAWUL,SAR,10732.0,-0.85%,-10.84%,368,Aug/28,https://stockanalysis.com/list/saudi-stock-exchange/,https://tradingeconomics.com/saudi-arabia/stock-market
+Dhaka Stock Exchange,Bangladesh,DSE,BDT,5518.0,4.14%,5.78%,356,Aug/28,https://stockanalysis.com/list/dhaka-stock-exchange/,https://tradingeconomics.com/bangladesh/stock-market
+Oslo Børs,Norway,OSL,NOK,1885.0,-0.26%,14.60%,300,Aug/28,https://stockanalysis.com/list/oslo-bors/,https://tradingeconomics.com/norway/stock-market
+Colombo Stock Exchange,Sri Lanka,COSE,LKR,20800.0,6.49%,30.45%,293,Aug/28,https://stockanalysis.com/list/colombo-stock-exchange/,https://tradingeconomics.com/sri-lanka/stock-market
+Philippine Stock Exchange,Philippines,PSE,PHP,6190.0,-2.14%,-5.19%,283,Aug/28,https://stockanalysis.com/list/philippine-stock-exchange/,https://tradingeconomics.com/philippines/stock-market
+Johannesburg Stock Exchange,South Africa,JSE,ZAR,102085.0,2.94%,21.39%,271,Aug/28,https://stockanalysis.com/list/johannesburg-stock-exchange/,https://tradingeconomics.com/south-africa/stock-market
+SIX Swiss Exchange,Switzerland,SWX,CHF,12205.0,2.06%,5.21%,264,Aug/28,https://stockanalysis.com/list/six-swiss-exchange/,https://tradingeconomics.com/switzerland/stock-market
+Madrid Stock Exchange,Spain,BME,EUR,15069.0,5.02%,29.96%,242,Aug/28,https://stockanalysis.com/list/madrid-stock-exchange/,https://tradingeconomics.com/spain/stock-market
+Egyptian Stock Exchange,Egypt,EGX,EGP,35727.0,4.82%,20.13%,216,Aug/28,https://stockanalysis.com/list/egyptian-stock-exchange/,https://tradingeconomics.com/egypt/stock-market
+Nasdaq Helsinki,Finland,HEL,EUR,4945.0,-1.58%,14.58%,188,Aug/28,https://stockanalysis.com/list/nasdaq-helsinki/,https://tradingeconomics.com/finland/stock-market
+Moscow Stock Exchange,Russia,MOEX,RUB,2910.0,5.51%,0.94%,185,Aug/28,https://stockanalysis.com/list/moscow-stock-exchange/,https://tradingeconomics.com/russia/stock-market
+Bucharest Stock Exchange,Romania,BVB,RON,20649.0,3.28%,23.49%,181,Aug/27,https://stockanalysis.com/list/bucharest-stock-exchange/,https://tradingeconomics.com/romania/stock-market
+Buenos Aires Stock Exchange,Argentina,BCBA,ARS,2028882.0,-11.95%,-19.92%,173,Aug/28,https://stockanalysis.com/list/buenos-aires-stock-exchange/,https://tradingeconomics.com/argentina/stock-market
+Santiago Stock Exchange,Chile,SNSE,CLP,44575.0,9.28%,32.33%,159,Aug/28,https://stockanalysis.com/list/santiago-stock-exchange/,https://tradingeconomics.com/chile/stock-market
+Copenhagen Stock Exchange,Denmark,CPH,DKK,1583.0,-0.11%,-24.68%,156,Aug/28,https://stockanalysis.com/list/copenhagen-stock-exchange/,https://tradingeconomics.com/denmark/stock-market
+Vienna Stock Exchange,Austria,VIE,EUR,4653.0,2.06%,27.02%,145,Aug/27,https://stockanalysis.com/list/vienna-stock-exchange/,https://tradingeconomics.com/austria/stock-market
+Nigerian Stock Exchange,Nigeria,NGX,NGN,140557.0,1.92%,36.56%,144,Aug/28,https://stockanalysis.com/list/nigerian-stock-exchange/,https://tradingeconomics.com/nigeria/stock-market
+Athens Stock Exchange,Greece,ATH,EUR,2043.0,3.43%,39.03%,141,Aug/28,https://stockanalysis.com/list/athens-stock-exchange/,https://tradingeconomics.com/greece/stock-market
+Kuwait Stock Exchange,Kuwait,KWSE,KWD,8565.39,0.64%,16.34%,140,Aug/27,https://stockanalysis.com/list/kuwait-stock-exchange/,https://tradingeconomics.com/kuwait/stock-market
+Euronext Brussels,Belgium,EBR,EUR,4824.0,4.39%,13.11%,124,Aug/28,https://stockanalysis.com/list/euronext-brussels/,https://tradingeconomics.com/belgium/stock-market
+Lima Stock Exchange,Peru,BVL,PEN,34591.0,4.75%,19.44%,119,Aug/27,https://stockanalysis.com/list/lima-stock-exchange/,https://tradingeconomics.com/peru/stock-market
+Amman Stock Exchange,Jordan,ASE,JOD,2966.0,1.04%,19.16%,118,Aug/28,https://stockanalysis.com/list/amman-stock-exchange/,https://tradingeconomics.com/jordan/stock-market
+Euronext Amsterdam,Netherlands,AMS,EUR,903.0,-0.78%,2.76%,117,Aug/28,https://stockanalysis.com/list/euronext-amsterdam/,https://tradingeconomics.com/netherlands/stock-market
+New Zealand Stock Exchange,New Zealand,NZE,NZD,12903.0,-0.26%,-1.58%,113,Aug/28,https://stockanalysis.com/list/new-zealand-stock-exchange/,https://tradingeconomics.com/new-zealand/stock-market
+Luxembourg Stock Exchange,Luxembourg,LUX,EUR,1622.0,1.64%,24.40%,105,Aug/28,https://stockanalysis.com/list/luxembourg-stock-exchange/,https://tradingeconomics.com/luxembourg/stock-market
+Muscat Securities Market,Oman,MSM,OMR,5063.0,6.64%,10.62%,103,Aug/28,https://stockanalysis.com/list/muscat-securities-market/,https://tradingeconomics.com/oman/stock-market
+Abu Dhabi Securities Exchange,United Arab Emirates,ADX,AED,10119.0,-2.15%,7.43%,102,Aug/28,https://stockanalysis.com/list/abu-dhabi-securities-exchange/,https://tradingeconomics.com/united-arab-emirates/stock-market
+Jamaica Stock Exchange,Jamaica,JMSE,JMD,315726.0,3.82%,-5.98%,99,Aug/27,https://stockanalysis.com/list/jamaica-stock-exchange/,https://tradingeconomics.com/jamaica/stock-market
+Mauritius Stock Exchange,Mauritius,MUSE,MUR,2444.0,1.61%,1.71%,85,Aug/27,https://stockanalysis.com/list/mauritius-stock-exchange/,https://tradingeconomics.com/mauritius/stock-market
+Bulgarian Stock Exchange,Bulgaria,BUL,BGN,1068.0,2.83%,19.64%,75,Aug/27,https://stockanalysis.com/list/bulgarian-stock-exchange/,https://tradingeconomics.com/bulgaria/stock-market
+Casablanca Stock Exchange,Morocco,CBSE,MAD,20210.0,3.93%,36.80%,75,Aug/28,https://stockanalysis.com/list/casablanca-stock-exchange/,https://tradingeconomics.com/morocco/stock-market
+Tunis Stock Exchange,Tunisia,BVMT,TND,11904.0,0.47%,19.59%,71,Aug/28,https://stockanalysis.com/list/tunis-stock-exchange/,https://tradingeconomics.com/tunisia/stock-market
+Colombia Stock Exchange,Colombia,BVC,COP,1841.0,4.74%,33.46%,62,Aug/28,https://stockanalysis.com/list/colombia-stock-exchange/,https://tradingeconomics.com/colombia/stock-market
+Nairobi Stock Exchange,Kenya,NASE,KES,2837.0,10.58%,41.11%,57,Aug/28,https://stockanalysis.com/list/nairobi-stock-exchange/,https://tradingeconomics.com/kenya/stock-market
+Qatar Stock Exchange,Qatar,QSE,QAR,11227.0,0.76%,6.20%,54,Aug/28,https://stockanalysis.com/list/qatar-stock-exchange/,https://tradingeconomics.com/qatar/stock-market
+Zagreb Stock Exchange,Croatia,ZSE,HRK,3695.0,-2.03%,15.80%,51,Aug/28,https://stockanalysis.com/list/zagreb-stock-exchange/,https://tradingeconomics.com/croatia/stock-market
+Prague Stock Exchange,Czech Republic,PRA,CZK,2282.0,2.31%,29.67%,51,Aug/28,https://stockanalysis.com/list/prague-stock-exchange/,https://tradingeconomics.com/czech-republic/stock-market
+Budapest Stock Exchange,Hungary,BUD,HUF,104121.0,3.02%,31.26%,48,Aug/28,https://stockanalysis.com/list/budapest-stock-exchange/,https://tradingeconomics.com/hungary/stock-market
+Euronext Lisbon,Portugal,ELI,EUR,7798.0,1.43%,22.28%,46,Aug/28,https://stockanalysis.com/list/euronext-lisbon/,https://tradingeconomics.com/portugal/stock-market
+Cyprus Stock Exchange,Cyprus,CYS,EUR,297.0,12.62%,37.86%,37,Aug/27,https://stockanalysis.com/list/cyprus-stock-exchange/,https://tradingeconomics.com/cyprus/stock-market
+Nasdaq Iceland,Iceland,ICE,ISK,2052.0,-3.40%,-14.09%,33,Aug/28,https://stockanalysis.com/list/nasdaq-iceland/,https://tradingeconomics.com/iceland/stock-market
+Namibian Stock Exchange,Namibia,NMSE,NAD,1832.0,2.60%,1.68%,31,Aug/28,https://stockanalysis.com/list/namibian-stock-exchange/,https://tradingeconomics.com/namibia/stock-market
+Malta Stock Exchange,Malta,MSE,EUR,3838.0,0.87%,1.90%,29,Aug/26,https://stockanalysis.com/list/malta-stock-exchange/,https://tradingeconomics.com/malta/stock-market
+Bahrain Stock Exchange,Bahrain,BAX,BHD,1929.48,-1.29%,-2.84%,29,Aug/28,https://stockanalysis.com/list/bahrain-stock-exchange/,https://tradingeconomics.com/bahrain/stock-market
+Nasdaq Tallinn,Estonia,TAL,EUR,2019.0,-1.07%,16.52%,28,Aug/28,https://stockanalysis.com/list/nasdaq-tallinn/,https://tradingeconomics.com/estonia/stock-market
+Tanzania Stock Exchange,Tanzania,DAR,TZS,2586.0,6.71%,20.85%,28,Aug/28,https://stockanalysis.com/list/tanzania-stock-exchange/,https://tradingeconomics.com/tanzania/stock-market
+Ghana Stock Exchange,Ghana,GHSE,GHS,7339.0,10.02%,50.12%,27,Aug/28,https://stockanalysis.com/list/ghana-stock-exchange/,https://tradingeconomics.com/ghana/stock-market
+Nasdaq Vilnius,Lithuania,VSE,EUR,1226.0,1.99%,15.03%,26,Aug/28,https://stockanalysis.com/list/nasdaq-vilnius/,https://tradingeconomics.com/lithuania/stock-market
+Euronext Dublin,Ireland,ISE,EUR,11367.0,-2.23%,16.50%,25,Aug/28,https://stockanalysis.com/list/euronext-dublin/,https://tradingeconomics.com/ireland/stock-market
+Caracas Stock Exchange,Venezuela,CCSE,VES,818.0,51.73%,584.97%,23,Aug/28,https://stockanalysis.com/list/caracas-stock-exchange/,https://tradingeconomics.com/venezuela/stock-market
+Kazakhstan Stock Exchange,Kazakhstan,KASE,KZT,6870.0,6.24%,23.16%,20,Aug/28,https://stockanalysis.com/list/kazakhstan-stock-exchange/,https://tradingeconomics.com/kazakhstan/stock-market
+Belgrade Stock Exchange,Serbia,BELEX,EUR,1202.0,-1.06%,4.83%,19,Aug/28,https://stockanalysis.com/list/belgrade-stock-exchange/,https://tradingeconomics.com/serbia/stock-market
+Botswana Stock Exchange,Botswana,BSM,BWP,10560.0,0.60%,5.08%,18,Aug/27,https://stockanalysis.com/list/botswana-stock-exchange/,https://tradingeconomics.com/botswana/stock-market
+Uganda Securities Exchange,Uganda,UGSE,UGX,1431.97,7.45%,19.85%,17,Aug/26,https://stockanalysis.com/list/uganda-securities-exchange/,https://tradingeconomics.com/uganda/stock-market
+Ljubljana Stock Exchange,Slovenia,LJSE,EUR,2420.0,-2.05%,44.93%,14,Aug/28,https://stockanalysis.com/list/ljubljana-stock-exchange/,https://tradingeconomics.com/slovenia/stock-market
+Nasdaq Riga,Latvia,RSE,EUR,920.0,2.01%,5.79%,11,Aug/28,https://stockanalysis.com/list/nasdaq-riga/,https://tradingeconomics.com/latvia/stock-market
+Beirut Stock Exchange,Lebanon,BDB,LBP,1896.0,-6.31%,-24.66%,8,Aug/28,https://stockanalysis.com/list/beirut-stock-exchange/,https://tradingeconomics.com/lebanon/stock-market
+Bratislava Stock Exchange,Slovakia,BSSE,EUR,276.0,-7.20%,-6.60%,7,Aug/27,https://stockanalysis.com/list/bratislava-stock-exchange/,https://tradingeconomics.com/slovakia/stock-market
+Zimbabwe Stock Exchange,Zimbabwe,ZMSE,ZWL,206.28,2.42%,-5.10%,4,Aug/27,https://stockanalysis.com/list/zimbabwe-stock-exchange/,https://tradingeconomics.com/zimbabwe/stock-market
+PFTS Stock Exchange,Ukraine,UKR,UAH,463.0,-0.21%,-7.87%,2,Aug/27,https://stockanalysis.com/list/pfts-stock-exchange/,https://tradingeconomics.com/ukraine/stock-market
